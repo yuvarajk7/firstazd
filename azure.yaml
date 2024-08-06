@@ -1,0 +1,6 @@
+name: sample-web-app
+services:
+  web:
+    language: csharp
+    project: ./src/helloworld
+    host: appservice
